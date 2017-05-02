@@ -4,7 +4,7 @@
 #
 Name     : xfce4-sensors-plugin
 Version  : 1.2.4
-Release  : 2
+Release  : 3
 URL      : http://mirrors.tummy.com/pub/archive.xfce.org/src/panel-plugins/xfce4-sensors-plugin/1.2/xfce4-sensors-plugin-1.2.4.tar.bz2
 Source0  : http://mirrors.tummy.com/pub/archive.xfce.org/src/panel-plugins/xfce4-sensors-plugin/1.2/xfce4-sensors-plugin-1.2.4.tar.bz2
 Summary  : Library for the Xfce 4 Sensors Plugin and Viewer

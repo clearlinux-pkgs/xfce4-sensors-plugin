@@ -5,7 +5,6 @@ libgdk_pixbuf-2.0.so.0
 libglib-2.0.so.0
 libgobject-2.0.so.0
 libgtk-x11-2.0.so.0
-libm.so.6
 libnotify.so.4
 libpango-1.0.so.0
 libpthread.so.0
